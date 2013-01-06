@@ -1,15 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://9gix.github.com/blog/2013/01/01/stacklegacy-2013-new-year-resolution/</loc>
+        <lastmod>2013-01-07T00:08:08+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://9gix.github.com/blog/2013/01/06/up-n-running/</loc>
+        <lastmod>2013-01-07T00:10:30+08:00</lastmod>
+    </url>
+    <url>
         <loc>http://9gix.github.com/blog/archives/</loc>
-        <lastmod>2013-01-06T23:11:33+08:00</lastmod>
+        <lastmod>2013-01-07T00:10:30+08:00</lastmod>
     </url>
     <url>
         <loc>http://9gix.github.com/</loc>
-        <lastmod>2013-01-06T23:11:33+08:00</lastmod>
+        <lastmod>2013-01-07T00:10:30+08:00</lastmod>
     </url>
     <url>
         <loc>http://9gix.github.com/robots.txt</loc>
-        <lastmod>2013-01-06T23:11:33+08:00</lastmod>
+        <lastmod>2013-01-06T23:30:20+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://9gix.github.com/about/</loc>
+        <lastmod>2013-01-06T23:40:43+08:00</lastmod>
     </url>
 </urlset>
