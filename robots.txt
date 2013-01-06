@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://9gix.github.com/sitemap.xml 
